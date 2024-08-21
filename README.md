@@ -9,7 +9,7 @@ Proyecto desarrollado por [@Midudev](https://github.com/midudev/)
 | Advent  | Completado |
 | ------- | ---------- |
 | 1 | ✅ |
-| 2 | ❌ |
+| 2 | ✅ |
 | 3 | ❌ |
 | 4 | ❌ |
 | 5 | ❌ |
