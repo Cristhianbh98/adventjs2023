@@ -14,7 +14,7 @@ Proyecto desarrollado por [@Midudev](https://github.com/midudev/)
 | 4 | ✅ |
 | 5 | ✅ |
 | 6 | ✅ |
-| 7 | ❌ |
+| 7 | ✅ |
 | 8 | ❌ |
 | 9 | ❌ |
 | 10 | ❌ |
